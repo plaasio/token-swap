@@ -4,7 +4,7 @@ IMPORTANT NOTICE TO ALL PLAAS (PLS) TOKEN HOLDERS INTRODUCING THE PLAAS FARMERS 
     SYMBOL:             PLAAS
     CONTRACT:           0x60571e95e12c78cba5223042692908f0649435a5  
     DECIMAL:            18
-    ALGORITHM:          ERC777
+    ALGORITHM:          ERC320
 TOTAL SUPPLY:           50 000 000 PLAAS
  
 There is a lot happening on the plaas project from the plaas protocol to PLAAS Futures which the team has been working hard to bring to you.We did on our previous blog bring to you the MICHE!,our Plaas hardware! Today we bring another development in our quest to making plaas the platform of choice for all of you.
